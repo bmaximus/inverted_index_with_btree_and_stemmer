@@ -1,4 +1,4 @@
-# inverted_index_with_btree_and_stemmer
+# Inverted Index with Btree and Stemmer
 
 Many thanks to below repos 
 
